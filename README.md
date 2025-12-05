@@ -8,15 +8,6 @@
   Below are some of the technologies I enjoy working with.
 </p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanpramudito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanpramudito&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
 <h3 align="left">Technologies I Use</h3>
 
 <table width="100%">
